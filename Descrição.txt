@@ -1,14 +1,13 @@
-CONVERSOR DE MOEDAS E VARIÁVEIS NO JAVASCRIPT
+CALCULADORA E LAÇOS CONDICIONAIS NO JAVASCRIPT
 
-*converte dolar em real
+*Adição, Subtração, Divisão e Multiplicação
 
-Neste programa, focamos nas primeiras ferramentas principais de qualquer linguagem de programação: variáveis, operadores, além das funções alert e prompt para trocar nossas primeiras mensagens na tela com o usuário.
+Nesta programa, vamos aprender o que são laços condicionais if e else, como comparar um valor com outro para executar um código ou não. Além disso, vamos aprender como escrever na tela com a função document.write.
 
 Conteúdo detalhado:
 
-Entender as diferenças entre HTML, CSS e JavaScript;
-Exibir mensagens na tela com alert();
-Variáveis, manipulação dos valores armazenados e a memória do computador;
-Tipos de variáveis, como texto e inteiro;
-Fixando a quantidade de casas decimais com a função toFixed();
-Converter um tipo texto (string) em decimal (float) com a função parseFloat().
+Interagir com usuário para receber os valores que serão calculados;
+Criar a lógica para saber qual operação será executada;
+Comparar o valor da operação escolhida para descobrir qual função será realizada;
+Exibir uma mensagem de erro, caso a operação escolhida seja inválida;
+Exibindo os valores escolhidos e o resultado da operação com document.write;
